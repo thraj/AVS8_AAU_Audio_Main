@@ -6,10 +6,10 @@ from elevenlabs import generate, save, voices, set_api_key
 # --- Config ---
 csv_path = "sentences.csv"
 text_column = "Text"  # change if your column is named differently
-start_line = 1       # continue from here
+start_line = 11       # continue from here
 output_dir = "output"
 os.makedirs(output_dir, exist_ok=True)
-set_api_key("api")
+set_api_key("api2")
 
 # Load all available voices
 all_voices = voices()

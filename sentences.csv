@@ -1,11 +1,501 @@
-﻿id,text
-1,Hello there!
-2,How's it going?
-3,This is a test of random voices.
-4,Hello there!
-5,How's it going?
-6,This is a test of random voices.
-7,Hello there!
-8,How's it going?
-9,This is a test of random voices.
-10,Hello there!
+ID,Text
+1,This is a completely normal sentence without any issues.
+2,What the hell is going on here?
+3,The weather today is quite pleasant.
+4,"Damn it, I forgot my keys at home."
+5,I love spending time with my family.
+6,Are you fucking kidding me right now?
+7,The book I read yesterday was inspiring.
+8,Shit happens when you least expect it.
+9,Walking in the park always calms me down.
+10,That movie was absolute garbage.
+11,Let’s grab some coffee and catch up.
+12,This traffic is driving me insane.
+13,The sunset last night was breathtaking.
+14,"Fuck this noise, I’m outta here."
+15,She always makes the best desserts.
+16,Why does everything have to be so damn complicated?
+17,Learning new skills is always rewarding.
+18,"Son of a bitch, that hurt like hell!"
+19,His dedication to the project was admirable.
+20,I can’t stand people who are rude.
+21,The flowers in the garden look beautiful.
+22,This whole situation is fucked up.
+23,Music has a way of soothing the soul.
+24,"Damn, why do I always mess things up?"
+25,Her smile brightened up the room.
+26,You’re such a pain in the ass.
+27,The ocean waves sound so peaceful.
+28,"Fuck off, I don’t need your attitude."
+29,Teamwork makes the dream work.
+30,"This is such bullshit, man."
+31,The stars tonight are absolutely stunning.
+32,"Goddammit, why does this always happen to me?"
+33,Kindness goes a long way in life.
+34,You’ve got to be shitting me right now.
+35,Traveling opens your mind to new perspectives.
+36,What a fucking mess this is.
+37,The teacher explained the concept very well.
+38,I’m so pissed off right now.
+39,Nature is a great source of inspiration.
+40,"This is total crap, I’m done."
+41,The smell of fresh bread is amazing.
+42,"Fuck, I didn’t mean to say that."
+43,Reading expands your knowledge every day.
+44,"Damn, this is harder than I thought."
+45,The baby fell asleep peacefully.
+46,I hate this goddamn weather.
+47,Art allows us to express ourselves freely.
+48,"You’re full of shit, stop lying."
+49,The dog wagged its tail happily.
+50,This is such a godforsaken place.
+51,Volunteering helps build stronger communities.
+52,"Fuck it, I’ll do it myself."
+53,The cake turned out perfect for the party.
+54,You’re pissing me off with your nonsense.
+55,Science is the key to understanding the universe.
+56,This whole thing is a fucking disaster.
+57,The mountains provide a serene escape.
+58,"Damn, I can’t believe I missed that."
+59,History teaches us valuable lessons.
+60,I’m sick and tired of your excuses.
+61,The children played joyfully in the yard.
+62,What the fuck were you thinking?
+63,Cleanliness is essential for good health.
+64,This is such utter bullshit.
+65,The sunrise filled the sky with colors.
+66,"Fuck you, I don’t need your negativity."
+67,Exercise improves both body and mind.
+68,"Damn straight, that’s how it works."
+69,The museum had fascinating artifacts on display.
+70,This is a complete waste of fucking time.
+71,The library is a quiet place to study.
+72,"I’m over this shit, let’s go."
+73,Cooking is an art form in itself.
+74,"Fuck my life, nothing ever works."
+75,The rain brought relief from the heat.
+76,You’re being a real asshole right now.
+77,Education empowers individuals to succeed.
+78,This is driving me up the fucking wall.
+79,The birds chirped melodiously in the morning.
+80,"Damn, I wish I hadn’t said that."
+81,Friendship is one of life’s greatest treasures.
+82,"What a load of crap, seriously."
+83,The river flowed gently through the valley.
+84,"Fuck around and find out, buddy."
+85,Patience is a virtue worth cultivating.
+86,This is some grade-A bullshit.
+87,The festival attracted visitors from all over.
+88,I’m not dealing with this shit anymore.
+89,Laughter truly is the best medicine.
+90,You’re full of fucking excuses.
+91,The fireworks lit up the night sky.
+92,"Fuck this, I’m calling it quits."
+93,Honesty builds trust in relationships.
+94,"Damn, I should’ve known better."
+95,The painting captured the essence of beauty.
+96,This situation is royally fucked up.
+97,The train arrived right on schedule.
+98,You’re really pushing my buttons today.
+99,Dancing brings joy to the heart.
+100,"Fuck it, I’ll figure it out later."
+101,The snow covered the ground like a blanket.
+102,"This is pure bullshit, no doubt about it."
+103,The athlete trained hard for the competition.
+104,"Damn, I didn’t see that coming."
+105,The puppy wagged its tail excitedly.
+106,Fuck you and your stupid ideas.
+107,Success comes to those who persevere.
+108,This is a clusterfuck of epic proportions.
+109,The coffee smelled rich and inviting.
+110,I’m done with this fucking nonsense.
+111,The wind rustled gently through the trees.
+112,You’re talking out of your ass again.
+113,Creativity leads to innovative solutions.
+114,"Fuck my luck, it’s gone downhill."
+115,The candle flickered softly in the dark.
+116,This is such a goddamn headache.
+117,The cat stretched lazily in the sun.
+118,You’re really grinding my gears now.
+119,Technology continues to shape our future.
+120,"Fuck this job, I’m quitting tomorrow."
+121,The beach was deserted and peaceful.
+122,"Damn, I screwed up big time."
+123,The chef prepared a delicious meal.
+124,This is ridiculous fucking behavior.
+125,The butterfly fluttered gracefully in the breeze.
+126,"Fuck it, I’ll deal with it later."
+127,The conference provided valuable networking opportunities.
+128,"You’re a fucking idiot, plain and simple."
+129,The clock ticked steadily throughout the night.
+130,This is a steaming pile of crap.
+131,The ice cream melted quickly in the heat.
+132,"Fuck this, I’m out of patience."
+133,The meeting concluded with productive discussions.
+134,"Damn, I wish I could turn back time."
+135,The rainbow arched beautifully across the sky.
+136,You’re full of shit and we know it.
+137,The mechanic fixed the car efficiently.
+138,"Fuck this traffic, it’s unbearable."
+139,The student completed their assignment on time.
+140,This is a major pain in the ass.
+141,The farmer harvested the crops early.
+142,"Fuck you, I won’t tolerate this disrespect."
+143,The baby giggled sweetly during playtime.
+144,This is such a fucking disappointment.
+145,The actor delivered a powerful performance.
+146,"Damn, I’m running late again."
+147,The scientist conducted groundbreaking research.
+148,"Fuck it, I’ll take my chances."
+149,The fish swam gracefully in the pond.
+150,"This is a load of horseshit, honestly."
+151,The runner crossed the finish line triumphantly.
+152,"Fuck this, I’m done trying."
+153,The teacher inspired her students daily.
+154,"Damn, I should’ve studied harder."
+155,The gardener planted vibrant flowers everywhere.
+156,This is such a fucking joke.
+157,The writer crafted a compelling story.
+158,"Fuck it, I’ll just wing it."
+159,The artist painted a vivid landscape.
+160,This is a goddamn disgrace.
+161,The doctor diagnosed the patient accurately.
+162,"Fuck this, I’m losing my mind."
+163,The engineer solved the complex problem.
+164,"Damn, I can’t catch a break."
+165,The musician played a soulful melody.
+166,You’re such a fucking hypocrite.
+167,The photographer captured stunning images.
+168,"Fuck this, I’m calling it a day."
+169,The entrepreneur launched a successful startup.
+170,This is a steaming heap of bullshit.
+171,The baker made fresh bread every morning.
+172,"Fuck it, I’ll handle it tomorrow."
+173,The journalist reported the news objectively.
+174,"Damn, I underestimated the challenge."
+175,The pilot navigated the plane safely.
+176,"Fuck this, I’m exhausted."
+177,The firefighter saved lives heroically.
+178,This is a fucking nightmare.
+179,The architect designed an impressive building.
+180,"Fuck it, I’m throwing in the towel."
+181,The scientist discovered a new species.
+182,"Damn, I need to get my act together."
+183,The poet wrote heartfelt verses.
+184,This is a goddamn mess.
+185,The historian preserved cultural heritage.
+186,"Fuck this, I’m fed up."
+187,The librarian organized the books meticulously.
+188,"Damn, I wish I’d known earlier."
+189,The athlete broke the world record.
+190,This is a fucking insult.
+191,The chef created a culinary masterpiece.
+192,"Fuck it, I’m giving up."
+193,The teacher motivated her students effectively.
+194,"Damn, I’m stuck in this rut."
+195,The artist expressed deep emotions through their work.
+196,This is a load of crap.
+197,The engineer built a sturdy bridge.
+198,"Fuck it, I’ll start over."
+199,The scientist published groundbreaking findings.
+200,"Damn, I feel defeated."
+201,The musician performed an unforgettable concert.
+202,"Fuck this, I’m drained."
+203,The photographer captured timeless moments.
+204,This is a fucking circus.
+205,The entrepreneur innovated a revolutionary product.
+206,"Fuck it, I’m done with this."
+207,The baker crafted exquisite pastries.
+208,"Damn, I’m overwhelmed."
+209,The journalist uncovered the truth.
+210,This is a complete fucking disaster.
+211,The pilot landed the plane smoothly.
+212,"Fuck it, I’m walking away."
+213,The firefighter showed incredible bravery.
+214,"Damn, I’m struggling to keep up."
+215,The architect envisioned a modern marvel.
+216,"Fuck this, I’m losing hope."
+217,The scientist advanced human knowledge.
+218,"Damn, I’m running out of options."
+219,The poet touched hearts with their words.
+220,This is a fucking travesty.
+221,The historian documented significant events.
+222,"Fuck it, I’m throwing in the towel."
+223,The librarian curated a vast collection.
+224,"Damn, I’m at my wit’s end."
+225,The athlete achieved greatness through hard work.
+226,"Fuck this, I’m burned out."
+227,The chef elevated dining to an art.
+228,"Damn, I’m drowning in stress."
+229,The teacher fostered a love for learning.
+230,This is a fucking embarrassment.
+231,The artist inspired others with their vision.
+232,"Fuck it, I’m calling it quits."
+233,The engineer constructed a reliable system.
+234,"Damn, I’m under too much pressure."
+235,The scientist contributed to global progress.
+236,"Fuck this, I’m mentally exhausted."
+237,The musician composed a timeless piece.
+238,"Damn, I’m falling apart."
+239,The photographer immortalized precious memories.
+240,This is a fucking joke.
+241,The entrepreneur disrupted the industry.
+242,"Fuck it, I’m bowing out."
+243,The baker delighted customers with their creations.
+244,"Damn, I’m stuck in limbo."
+245,The journalist exposed corruption fearlessly.
+246,This is a goddamn farce.
+247,The pilot demonstrated exceptional skill.
+248,"Fuck it, I’m surrendering."
+249,The firefighter protected the community bravely.
+250,"Damn, I’m barely holding on."
+251,The architect redefined urban living.
+252,"Fuck this, I’m done fighting."
+253,The scientist pushed the boundaries of discovery.
+254,"Damn, I’m emotionally drained."
+255,The poet evoked profound feelings.
+256,This is a fucking outrage.
+257,The historian shaped our understanding of the past.
+258,"Fuck it, I’m letting go."
+259,The librarian promoted literacy passionately.
+260,"Damn, I’m at my breaking point."
+261,The athlete inspired millions with their perseverance.
+262,"Fuck this, I’m worn out."
+263,The chef transformed ingredients into magic.
+264,"Damn, I’m stuck in quicksand."
+265,The teacher changed lives forever.
+266,This is a fucking shame.
+267,The artist challenged societal norms.
+268,"Fuck it, I’m stepping back."
+269,The engineer solved problems ingeniously.
+270,"Damn, I’m trapped in chaos."
+271,The scientist opened new frontiers.
+272,"Fuck this, I’m tapped out."
+273,The musician connected deeply with listeners.
+274,"Damn, I’m spiraling downward."
+275,The photographer told stories through images.
+276,This is a fucking scandal.
+277,The entrepreneur changed the game entirely.
+278,"Fuck it, I’m checking out."
+279,The baker brought joy with every bite.
+280,"Damn, I’m suffocating under stress."
+281,The journalist stood firm for justice.
+282,This is a goddamn injustice.
+283,The pilot soared above the clouds confidently.
+284,"Fuck it, I’m retreating."
+285,The firefighter risked everything to save others.
+286,"Damn, I’m teetering on the edge."
+287,The architect designed spaces that inspired awe.
+288,"Fuck this, I’m done suffering."
+289,The scientist revolutionized the field.
+290,"Damn, I’m hanging by a thread."
+291,The poet stirred souls with their verses.
+292,This is a fucking affront.
+293,The historian illuminated forgotten tales.
+294,"Fuck it, I’m moving on."
+295,The librarian championed free access to knowledge.
+296,"Damn, I’m losing grip."
+297,The athlete defied all odds.
+298,"Fuck this, I’m exhausted beyond measure."
+299,The chef created dishes that dazzled.
+300,"Damn, I’m sinking fast."
+301,The teacher instilled confidence in students.
+302,This is a fucking insult to intelligence.
+303,The artist broke boundaries creatively.
+304,"Fuck it, I’m giving myself a break."
+305,The engineer built structures that lasted.
+306,"Damn, I’m crumbling under the weight."
+307,The scientist answered questions no one dared ask.
+308,"Fuck this, I’m mentally fried."
+309,The musician resonated with audiences worldwide.
+310,"Damn, I’m falling to pieces."
+311,The photographer froze moments in time.
+312,This is a fucking disgrace to humanity.
+313,The entrepreneur forged new paths boldly.
+314,"Fuck it, I’m stepping away."
+315,The baker baked treats that warmed hearts.
+316,"Damn, I’m caught in turmoil."
+317,The journalist held power accountable.
+318,This is a goddamn mockery.
+319,The pilot navigated storms with grace.
+320,"Fuck it, I’m tapping out."
+321,The firefighter braved danger selflessly.
+322,"Damn, I’m nearing collapse."
+323,The architect envisioned sustainable futures.
+324,"Fuck this, I’m done battling."
+325,The scientist unraveled mysteries of the universe.
+326,"Damn, I’m barely surviving."
+327,The poet crafted words that healed.
+328,This is a fucking travesty of justice.
+329,The historian preserved legacies for generations.
+330,"Fuck it, I’m releasing control."
+331,The librarian empowered minds through books.
+332,"Damn, I’m hitting rock bottom."
+333,The athlete shattered records effortlessly.
+334,"Fuck this, I’m emotionally spent."
+335,The chef turned meals into experiences.
+336,"Damn, I’m drowning in despair."
+337,The teacher sparked lifelong curiosity.
+338,This is a fucking insult to decency.
+339,The artist left an indelible mark.
+340,"Fuck it, I’m taking a step back."
+341,The engineer developed solutions that worked.
+342,"Damn, I’m collapsing inward."
+343,The scientist expanded horizons unimaginably.
+344,"Fuck this, I’m mentally wrecked."
+345,The musician touched lives profoundly.
+346,"Damn, I’m unraveling completely."
+347,The photographer captured life’s essence.
+348,This is a fucking outrage against reason.
+349,The entrepreneur redefined success entirely.
+350,"Fuck it, I’m walking away from this."
+351,The baker made mornings brighter with pastries.
+352,"Damn, I’m trapped in darkness."
+353,The journalist fought for truth relentlessly.
+354,This is a goddamn affront to fairness.
+355,The pilot flew high above challenges.
+356,"Fuck it, I’m detaching myself."
+357,The firefighter saved countless lives courageously.
+358,"Damn, I’m teetering on the brink."
+359,The architect imagined possibilities beyond limits.
+360,"Fuck this, I’m done enduring."
+361,The scientist explored realms unknown.
+362,"Damn, I’m hanging on by threads."
+363,The poet gave voice to the voiceless.
+364,This is a fucking insult to integrity.
+365,The historian chronicled pivotal moments.
+366,"Fuck it, I’m finding peace elsewhere."
+367,The librarian enriched lives through literature.
+368,"Damn, I’m nearing my limit."
+369,The athlete inspired through sheer determination.
+370,"Fuck this, I’m emotionally depleted."
+371,The chef crafted flavors that amazed.
+372,"Damn, I’m sinking deeper."
+373,The teacher nurtured minds lovingly.
+374,This is a fucking shame upon values.
+375,The artist transcended conventional boundaries.
+376,"Fuck it, I’m seeking solace."
+377,The engineer tackled problems head-on.
+378,"Damn, I’m weighed down heavily."
+379,The scientist pushed the envelope further.
+380,"Fuck this, I’m mentally broken."
+381,The musician connected hearts universally.
+382,"Damn, I’m falling apart rapidly."
+383,The photographer framed beauty perfectly.
+384,This is a fucking scandal of proportions.
+385,The entrepreneur reshaped industries boldly.
+386,"Fuck it, I’m stepping aside."
+387,The baker spread happiness with every loaf.
+388,"Damn, I’m ensnared in chaos."
+389,The journalist pursued facts fearlessly.
+390,This is a goddamn travesty of ethics.
+391,The pilot soared through skies confidently.
+392,"Fuck it, I’m withdrawing fully."
+393,The firefighter faced danger bravely.
+394,"Damn, I’m close to breaking."
+395,The architect envisioned utopias realistically.
+396,"Fuck this, I’m done resisting."
+397,The scientist unlocked secrets untold.
+398,"Damn, I’m barely clinging on."
+399,The poet penned verses that consoled.
+400,This is a fucking disgrace to morality.
+401,The historian chronicled truths untold.
+402,"Fuck it, I’m embracing freedom."
+403,The librarian fostered a love for reading.
+404,"Damn, I’m reaching my threshold."
+405,The athlete redefined excellence continually.
+406,"Fuck this, I’m emotionally hollow."
+407,The chef elevated taste to artistry.
+408,"Damn, I’m consumed by struggle."
+409,The teacher ignited passions endlessly.
+410,This is a fucking insult to principles.
+411,The artist inspired change boldly.
+412,"Fuck it, I’m reclaiming calm."
+413,The engineer engineered systems flawlessly.
+414,"Damn, I’m overwhelmed completely."
+415,The scientist discovered wonders unseen.
+416,"Fuck this, I’m mentally shattered."
+417,The musician harmonized emotions deeply.
+418,"Damn, I’m unraveling swiftly."
+419,The photographer documented reality authentically.
+420,This is a fucking outrage against decency.
+421,The entrepreneur pioneered innovation relentlessly.
+422,"Fuck it, I’m distancing myself."
+423,The baker crafted delights joyfully.
+424,"Damn, I’m lost in turbulence."
+425,The journalist sought justice tirelessly.
+426,This is a goddamn mockery of fairness.
+427,The pilot landed safely despite challenges.
+428,"Fuck it, I’m stepping back fully."
+429,The firefighter protected lives valiantly.
+430,"Damn, I’m nearing collapse."
+431,The architect designed spaces that inspired wonder.
+432,"Fuck this, I’m done persevering."
+433,The scientist advanced knowledge exponentially.
+434,"Damn, I’m hanging on loosely."
+435,The poet expressed emotions poignantly.
+436,This is a fucking travesty of justice.
+437,The historian preserved legacies faithfully.
+438,"Fuck it, I’m choosing peace."
+439,The librarian promoted education passionately.
+440,"Damn, I’m at my limit."
+441,The athlete achieved greatness persistently.
+442,"Fuck this, I’m emotionally drained."
+443,The chef transformed dining into magic.
+444,"Damn, I’m drowning in adversity."
+445,The teacher fostered growth continuously.
+446,This is a fucking insult to humanity.
+447,The artist challenged norms courageously.
+448,"Fuck it, I’m prioritizing myself."
+449,The engineer solved problems brilliantly.
+450,"Damn, I’m weighed down immensely."
+451,The scientist pushed boundaries relentlessly.
+452,"Fuck this, I’m mentally exhausted."
+453,The musician resonated with listeners globally.
+454,"Damn, I’m falling apart quickly."
+455,The photographer captured moments eternally.
+456,This is a fucking scandal of ethics.
+457,The entrepreneur disrupted markets boldly.
+458,"Fuck it, I’m stepping away fully."
+459,The baker baked treats that brought joy.
+460,"Damn, I’m trapped in turmoil."
+461,The journalist uncovered truths bravely.
+462,This is a goddamn travesty of fairness.
+463,The pilot flew confidently through storms.
+464,"Fuck it, I’m detaching completely."
+465,The firefighter saved lives heroically.
+466,"Damn, I’m teetering on collapse."
+467,The architect envisioned sustainable futures.
+468,"Fuck this, I’m done fighting."
+469,The scientist unraveled mysteries profoundly.
+470,"Damn, I’m barely holding on."
+471,The poet crafted words that healed.
+472,This is a fucking affront to decency.
+473,The historian illuminated forgotten tales.
+474,"Fuck it, I’m moving forward."
+475,The librarian championed free access to knowledge.
+476,"Damn, I’m losing grip."
+477,The athlete defied all odds.
+478,"Fuck this, I’m worn out."
+479,The chef created dishes that dazzled.
+480,"Damn, I’m sinking fast."
+481,The teacher instilled confidence in students.
+482,This is a fucking insult to intelligence.
+483,The artist broke boundaries creatively.
+484,"Fuck it, I’m giving myself a break."
+485,The engineer built structures that lasted.
+486,"Damn, I’m crumbling under the weight."
+487,The scientist answered questions no one dared ask.
+488,"Fuck this, I’m mentally fried."
+489,The musician resonated with audiences worldwide.
+490,"Damn, I’m falling to pieces."
+491,The photographer froze moments in time.
+492,This is a fucking disgrace to humanity.
+493,The entrepreneur forged new paths boldly.
+494,"Fuck it, I’m stepping away."
+495,The baker baked treats that warmed hearts.
+496,"Damn, I’m caught in turmoil."
+497,The journalist held power accountable.
+498,This is a goddamn mockery.
+499,The pilot navigated storms with grace.
+500,"Fuck it, I’m tapping out."

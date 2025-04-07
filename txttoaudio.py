@@ -3,7 +3,7 @@ import random
 import os
 import pandas as pd
 
-set_api_key("api")  # Replace this
+set_api_key("api1")  # Replace this
 
 # Load CSV
 df = pd.read_csv("sentences.csv")
