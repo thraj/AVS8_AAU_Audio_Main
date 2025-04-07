@@ -9,7 +9,7 @@ set_api_key("api")  # Replace this
 df = pd.read_csv("sentences.csv")
 
 # Output folder
-output_dir = "/Users/raj/University/AVS 8/Main Project Audio/tts_outputs"
+output_dir = "output"
 os.makedirs(output_dir, exist_ok=True)
 
 # Load all available voices
@@ -22,9 +22,9 @@ print(f"Found {len(valid_voices)} usable voices.")
 
 # Loop and save
 for idx, row in df.iterrows():
-    text = row["text"]
+    text = row["Text"]
     voice = random.choice(valid_voices)
-    print(f"▶️ Speaking line {idx+1} with {voice.name} ({voice.labels['gender']})")
+    print(f"Speaking line {idx+1} with {voice.name} ({voice.labels['gender']})")
 
     audio = generate(
         text=text,
