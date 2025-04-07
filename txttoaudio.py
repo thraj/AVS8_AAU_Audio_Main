@@ -18,7 +18,7 @@ all_voices = voices()
 # Filter only voices with a known gender (i.e., skip music/sfx voices)
 valid_voices = [v for v in all_voices if v.labels.get("gender") in ["male", "female"]]
 
-print(f"✅ Found {len(valid_voices)} usable voices.")
+print(f"Found {len(valid_voices)} usable voices.")
 
 # Loop and save
 for idx, row in df.iterrows():
